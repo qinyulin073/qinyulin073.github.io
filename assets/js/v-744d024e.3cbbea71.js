@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_name_=self.webpackChunk_name_||[]).push([[9146],{6041:(e,t,a)=>{a.r(t),a.d(t,{data:()=>n});const n={key:"v-744d024e",path:"/tag/",title:"",lang:"zh-CN",frontmatter:{layout:"Tag",slug:"aurora-tag"},excerpt:"",headers:[],git:{}}},7034:(e,t,a)=>{a.r(t),a.d(t,{default:()=>r});const n={},r=(0,a(3744).Z)(n,[["render",function(e,t){return null}]])}}]);
